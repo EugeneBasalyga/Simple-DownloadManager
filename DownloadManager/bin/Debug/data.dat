@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<FilesDB xmlns="http://tempuri.org/FilesDB.xsd">
+  <Files>
+    <Id>1</Id>
+    <Url>https://filezilla.ru/download/FileZillaPortable_3.8.0.paf.exe</Url>
+    <FileName>FileZillaPortable_3.8.0.paf.exe</FileName>
+    <FileSize>5062,78 KB</FileSize>
+    <DateTime>2018-05-30T00:55:14.5227572+03:00</DateTime>
+  </Files>
+  <Files>
+    <Id>2</Id>
+    <Url>https://filezilla.ru/download/FileZillaPortable_3.8.0.paf.exe</Url>
+    <FileName>FileZillaPortable_3.8.0.paf.exe</FileName>
+    <FileSize>5062,78 KB</FileSize>
+    <DateTime>2018-05-30T12:45:11.4677064+03:00</DateTime>
+  </Files>
+  <Files>
+    <Id>3</Id>
+    <Url>https://filezilla.ru/download/FileZilla_3.33.0_i686-linux-gnu.tar.bz2</Url>
+    <FileName>FileZilla_3.33.0_i686-linux-gnu.tar.bz2</FileName>
+    <FileSize>9626,22 KB</FileSize>
+    <DateTime>2018-05-30T12:46:03.4560786+03:00</DateTime>
+  </Files>
+  <Files>
+    <Id>4</Id>
+    <Url>https://filezilla.ru/download/FileZilla_3.33.0_i686-linux-gnu.tar.bz2</Url>
+    <FileName>FileZilla_3.33.0_i686-linux-gnu.tar.bz2</FileName>
+    <FileSize>9626,22 KB</FileSize>
+    <DateTime>2018-05-30T12:47:05.7043065+03:00</DateTime>
+  </Files>
+</FilesDB>

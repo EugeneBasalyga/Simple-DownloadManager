@@ -1,0 +1,17 @@
+C:\Users\Eugene\Desktop\meh\4 семестр\КСиС\DownloadManager\DownloadManager\bin\Debug\DownloadManager.exe.config
+C:\Users\Eugene\Desktop\meh\4 семестр\КСиС\DownloadManager\DownloadManager\bin\Debug\DownloadManager.exe
+C:\Users\Eugene\Desktop\meh\4 семестр\КСиС\DownloadManager\DownloadManager\bin\Debug\DownloadManager.pdb
+C:\Users\Eugene\Desktop\meh\4 семестр\КСиС\DownloadManager\DownloadManager\obj\Debug\DownloadManager.Properties.Resources.resources
+C:\Users\Eugene\Desktop\meh\4 семестр\КСиС\DownloadManager\DownloadManager\obj\Debug\DownloadManager.csproj.GenerateResource.Cache
+C:\Users\Eugene\Desktop\meh\4 семестр\КСиС\DownloadManager\DownloadManager\obj\Debug\DownloadManager.exe
+C:\Users\Eugene\Desktop\meh\4 семестр\КСиС\DownloadManager\DownloadManager\obj\Debug\DownloadManager.pdb
+C:\Users\Eugene\Desktop\meh\4 семестр\КСиС\DownloadManager\DownloadManager\obj\Debug\DownloadManager.frmAddUrl.resources
+C:\Users\Eugene\Desktop\meh\4 семестр\КСиС\DownloadManager\DownloadManager\obj\Debug\DownloadManager.frmDownload.resources
+C:\Users\Eugene\Desktop\meh\4 семестр\КСиС\DownloadManager\DownloadManager\obj\Debug\DownloadManager.frmMain.resources
+C:\Users\Eugene\Desktop\meh\4 семестр\КСиС\DownloadManager\DownloadManager\obj\Debug\DownloadManager.frmSetting.resources
+C:\Users\Eugene\Desktop\meh\4 семестр\КСиС\DownloadManager\DownloadManager\obj\Debug\DownloadManager.frmYoutubeVideo.resources
+C:\Users\Eugene\Desktop\meh\4 семестр\КСиС\DownloadManager\DownloadManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eugene\Desktop\meh\4 семестр\КСиС\DownloadManager\DownloadManager\bin\Debug\YoutubeExtractor.dll
+C:\Users\Eugene\Desktop\meh\4 семестр\КСиС\DownloadManager\DownloadManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eugene\Desktop\meh\4 семестр\КСиС\DownloadManager\DownloadManager\bin\Debug\YoutubeExtractor.xml
+C:\Users\Eugene\Desktop\meh\4 семестр\КСиС\DownloadManager\DownloadManager\obj\Debug\DownloadManager.csprojResolveAssemblyReference.cache
